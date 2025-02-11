@@ -10,13 +10,13 @@ I'm a passionate **full-stack developer** with a strong focus on **blockchain de
 - **Open Source Contributions** – I maintain and share my work publicly.
 
 ## 📌 Projects
-### [TrustPoll](https://github.com/YashdeepSingh-99/trustpoll)
+### [TrustPoll](https://trustpoll.vercel.app/)
 A **decentralized voting DApp** built with **Solidity and Next.js**, deployed on the **Sepolia testnet**.
 
-### [Versed Canvas](https://versedcanvas.com)
+### [Versed Canvas](https://versedcanvas.vercel.app/)
 A **marketplace for art and poetry**, featuring a self-built JSON-based API for cost-efficient data storage.
 
-### [Personal Portfolio](https://yashdeep-singh.dev)
+### [Personal Portfolio](https://yashdeepsingh2006.vercel.app)
 Showcasing my **projects, blogs, and achievements**, ranked **top 5 on Google Search**.
 
 ## 🛠️ Tech Stack
